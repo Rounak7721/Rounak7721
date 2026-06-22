@@ -22,78 +22,41 @@ AI Engineer specializing in Agentic AI, Local AI Systems, LLM Applications, Comp
 ---
 
 ## About Me
-- B.Tech in Artificial Intelligence & Machine Learning (2025)
-- Building agentic AI systems and intelligent automation solutions
-- Interested in Applied AI, Robotics, and Local-First AI
-- Based in Goa, India
+B.Tech in AI & Machine Learning (2025) · Building agentic AI systems & intelligent automation solutions · Interested in Applied AI, Robotics & Local-First AI · Based in Goa, India
 
 ---
 
 ## Technical Areas
+**Agentic AI & LLM Systems:** LangChain, LangGraph, RAG, Ollama, OpenAI API, Groq API, n8n
 
-### Agentic AI & LLM Systems
-- LangChain
-- LangGraph
-- RAG
-- Ollama
-- OpenAI APIs
-- Groq APIs
-- n8n
+**AI & Computer Vision:** PyTorch, TensorFlow, OpenCV, YOLO, MediaPipe, InsightFace
 
-### AI & Computer Vision
-- PyTorch
-- TensorFlow
-- OpenCV
-- YOLO
-- MediaPipe
-- InsightFace
+**Backend & Data:** Flask, PostgreSQL, MongoDB, FAISS, ChromaDB
 
-### Backend & Data
-- Flask
-- PostgreSQL
-- MongoDB
-- FAISS
-- ChromaDB
-
-### Robotics
-- ROS2
-- MoveIt
-- Arduino
-- Computer Vision for Robotics
+**Robotics:** ROS2, MoveIt, Arduino, Computer Vision for Robotics
 
 ---
 
 ## Featured Projects
+- **[MindDesk](https://github.com/Rounak7721/MindDesk)** — Local-first multimodal AI workspace with planning agents, RAG pipelines, computer vision, surveillance, and IoT automation.
 
-### [MindDesk](https://github.com/Rounak7721/MindDesk)
-Local-first multimodal AI workspace featuring planning agents, RAG pipelines, computer vision, surveillance, and IoT automation.
+- **[Agentic Lead Qualification System](https://github.com/Rounak7721/ai-lead-qualification-system)** — LLM-powered lead scoring and routing system integrating Airtable, Slack, Google Sheets, and n8n workflows.
 
-### [Agentic Lead Qualification System](https://github.com/Rounak7721/ai-lead-qualification-system)
-LLM-powered lead scoring and routing system integrating Airtable, Slack, Google Sheets, and n8n workflows.
+- **[IRIS](https://github.com/Rounak7721/iris)** — Embodied AI robotic manipulation system combining ROS2, MoveIt, perception, and autonomous task planning.
 
-### [IRIS](https://github.com/Rounak7721/iris)
-Embodied AI and robotic manipulation system combining ROS2, MoveIt, perception, and autonomous task planning.
-
-### [Virtual Mouse](https://github.com/Rounak7721/Virtual-Mouse)
-Gesture-controlled human-computer interaction system using OpenCV and MediaPipe.
+- **[Virtual Mouse](https://github.com/Rounak7721/Virtual-Mouse)** — Gesture-controlled HCI system using OpenCV and MediaPipe.
 
 ---
 
 ## Currently Working On
-- IRIS – Embodied AI & Robotics
-
----
+IRIS – Embodied AI & Robotics
 
 ## Currently Exploring
-- Agentic AI architectures
-- Embodied AI
-- Robotics
-- Multimodal systems
-- AI infrastructure
+Agentic AI architectures · Embodied AI · Robotics · Multimodal systems · AI infrastructure
 
 ---
 
 ## Connect
-- [LinkedIn](https://linkedin.com/in/rounak-sonavane)
-- [Email](mailto:rounaks7721@gmail.com)
-- [📄 Download Resume](https://github.com/Rounak7721/Rounak7721/raw/main/resume/Rounak_Sonavane_Resume.pdf)
+- [LinkedIn: rounak-sonavane](https://linkedin.com/in/rounak-sonavane) 
+- [Email: rounaks7721@gmail.com](mailto:rounaks7721@gmail.com) 
+- [📄Download Resume](https://github.com/Rounak7721/Rounak7721/raw/main/resume/Rounak_Sonavane_Resume.pdf)
