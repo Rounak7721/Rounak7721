@@ -1,16 +1,99 @@
-## Hi there 👋
+# Rounak Sonavane
 
-<!--
-**Rounak7721/Rounak7721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer specializing in Agentic AI, Local AI Systems, LLM Applications, Computer Vision, and Robotics.
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Rounak7721/Rounak7721/raw/main/resume/Rounak_Sonavane_Resume.pdf)
+
+---
+
+## About Me
+- B.Tech in Artificial Intelligence & Machine Learning (2025)
+- Building agentic AI systems and intelligent automation solutions
+- Interested in Applied AI, Robotics, and Local-First AI
+- Based in Goa, India
+
+---
+
+## Technical Areas
+
+### Agentic AI & LLM Systems
+- LangChain
+- LangGraph
+- RAG
+- Ollama
+- OpenAI APIs
+- Groq APIs
+- n8n
+
+### AI & Computer Vision
+- PyTorch
+- TensorFlow
+- OpenCV
+- YOLO
+- MediaPipe
+- InsightFace
+
+### Backend & Data
+- Flask
+- PostgreSQL
+- MongoDB
+- FAISS
+- ChromaDB
+
+### Robotics
+- ROS2
+- MoveIt
+- Arduino
+- Computer Vision for Robotics
+
+---
+
+## Featured Projects
+
+### [MindDesk](https://github.com/Rounak7721/MindDesk)
+Local-first multimodal AI workspace featuring planning agents, RAG pipelines, computer vision, surveillance, and IoT automation.
+
+### [Agentic Lead Qualification System](https://github.com/Rounak7721/ai-lead-qualification-system)
+LLM-powered lead scoring and routing system integrating Airtable, Slack, Google Sheets, and n8n workflows.
+
+### [IRIS](https://github.com/Rounak7721/iris)
+Embodied AI and robotic manipulation system combining ROS2, MoveIt, perception, and autonomous task planning.
+
+### [Virtual Mouse](https://github.com/Rounak7721/Virtual-Mouse)
+Gesture-controlled human-computer interaction system using OpenCV and MediaPipe.
+
+---
+
+## Currently Working On
+- IRIS – Embodied AI & Robotics
+
+---
+
+## Currently Exploring
+- Agentic AI architectures
+- Embodied AI
+- Robotics
+- Multimodal systems
+- AI infrastructure
+
+---
+
+## Connect
+- [LinkedIn](https://linkedin.com/in/rounak-sonavane)
+- [Email](mailto:rounaks7721@gmail.com)
+- [📄 Download Resume](https://github.com/Rounak7721/Rounak7721/raw/main/resume/Rounak_Sonavane_Resume.pdf)
