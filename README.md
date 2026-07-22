@@ -18,7 +18,7 @@ Building intelligent systems by integrating AI, backend engineering, robotics, c
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Rounak7721/Rounak7721/Rounak_Sonavane_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Rounak7721/Rounak7721/raw/main/Rounak_Sonavane_Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rounak-sonavane)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rounaks7721@gmail.com)
 
@@ -110,4 +110,4 @@ Gesture-controlled human-computer interaction system built with OpenCV and Media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rounak-sonavane)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rounaks7721@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Rounak7721/Rounak7721/raw/main/Rounak_Sonavane_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Rounak7721/raw/main/Rounak_Sonavane_Resume.pdf)
