@@ -1,6 +1,8 @@
 # Rounak Sonavane
 
-AI Engineer specializing in Agentic AI, Local AI Systems, LLM Applications, Computer Vision, and Robotics.
+## AI Systems Engineer | Intelligent Automation | Robotics
+
+Building intelligent systems by integrating AI, backend engineering, robotics, computer vision, and automation.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -22,41 +24,95 @@ AI Engineer specializing in Agentic AI, Local AI Systems, LLM Applications, Comp
 ---
 
 ## About Me
-B.Tech in AI & Machine Learning (2025) · Building agentic AI systems & intelligent automation solutions · Interested in Applied AI, Robotics & Local-First AI · Based in Goa, India
+
+AI Systems Engineer passionate about designing and building end-to-end intelligent systems that combine AI, backend engineering, robotics, and intelligent automation.
+
+I enjoy solving system-level engineering problems by integrating LLMs, computer vision, robotics software, databases, and modern AI frameworks into practical real-world applications.
+
+🎓 B.Tech in Artificial Intelligence & Machine Learning (2025)  
+📍 Goa, India
 
 ---
 
 ## Technical Areas
-**Agentic AI & LLM Systems:** LangChain, LangGraph, RAG, Ollama, OpenAI API, Groq API, n8n
 
-**AI & Computer Vision:** PyTorch, TensorFlow, OpenCV, YOLO, MediaPipe, InsightFace
+### AI & Intelligent Systems
+- LangChain
+- LangGraph
+- RAG
+- Ollama
+- OpenAI API
+- Groq API
+- n8n
 
-**Backend & Data:** Flask, PostgreSQL, MongoDB, FAISS, ChromaDB
+### AI & Computer Vision
+- PyTorch
+- TensorFlow
+- OpenCV
+- YOLO
+- MediaPipe
+- InsightFace
 
-**Robotics:** ROS2, MoveIt, Arduino, Computer Vision for Robotics
+### Backend & Data
+- Flask
+- PostgreSQL
+- MongoDB
+- FAISS
+- ChromaDB
+
+### Robotics
+- ROS2
+- MoveIt
+- Arduino
+- Computer Vision for Robotics
 
 ---
 
 ## Featured Projects
-- **[MindDesk](https://github.com/Rounak7721/MindDesk)** — Local-first multimodal AI workspace with planning agents, RAG pipelines, computer vision, surveillance, and IoT automation.
 
-- **[Agentic Lead Qualification System](https://github.com/Rounak7721/ai-lead-qualification-system)** — LLM-powered lead scoring and routing system integrating Airtable, Slack, Google Sheets, and n8n workflows.
+### 🚀 [MindDesk](https://github.com/Rounak7721/MindDesk)
 
-- **[IRIS](https://github.com/Rounak7721/iris)** — Embodied AI robotic manipulation system combining ROS2, MoveIt, perception, and autonomous task planning.
+A multimodal AI systems platform integrating planning agents, document intelligence, computer vision, surveillance, and IoT automation through a unified local-first architecture.
 
-- **[Virtual Mouse](https://github.com/Rounak7721/Virtual-Mouse)** — Gesture-controlled HCI system using OpenCV and MediaPipe.
+---
+
+### 🤖 [IRIS](https://github.com/Rounak7721/iris)
+
+An ongoing robotics platform integrating ROS2, MoveIt, and computer vision for intelligent robotic perception and manipulation.
+
+---
+
+### ⚙️ [Agentic Lead Qualification System](https://github.com/Rounak7721/ai-lead-qualification-system)
+
+LLM-powered workflow automation system for lead qualification, scoring, and routing using Airtable, Slack, Google Sheets, and n8n.
+
+---
+
+### 🖐️ [Virtual Mouse](https://github.com/Rounak7721/Virtual-Mouse)
+
+Gesture-controlled human-computer interaction system built with OpenCV and MediaPipe.
 
 ---
 
 ## Currently Working On
-IRIS – Embodied AI & Robotics
+
+🤖 **IRIS** — Intelligent Robotic Perception System
+
+---
 
 ## Currently Exploring
-Agentic AI architectures · Embodied AI · Robotics · Multimodal systems · AI infrastructure
+
+- AI Systems Engineering
+- Intelligent Automation
+- Robotics
+- Computer Vision
+- Multimodal AI
+- Applied AI
 
 ---
 
 ## Connect
-- [LinkedIn: rounak-sonavane](https://linkedin.com/in/rounak-sonavane) 
-- [Email: rounaks7721@gmail.com](mailto:rounaks7721@gmail.com) 
-- [📄Download Resume](https://github.com/Rounak7721/Rounak7721/raw/main/resume/Rounak_Sonavane_Resume.pdf)
+
+- 💼 **LinkedIn:** https://linkedin.com/in/rounak-sonavane
+- 📧 **Email:** rounaks7721@gmail.com
+- 📄 **Resume:** https://github.com/Rounak7721/Rounak7721/raw/main/resume/Rounak_Sonavane_Resume.pdf
