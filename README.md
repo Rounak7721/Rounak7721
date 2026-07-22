@@ -1,5 +1,4 @@
 # Rounak Sonavane
-
 ## AI Systems Engineer | Intelligent Automation | Robotics
 
 Building intelligent systems by integrating AI, backend engineering, robotics, computer vision, and automation.
@@ -20,6 +19,8 @@ Building intelligent systems by integrating AI, backend engineering, robotics, c
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Rounak7721/Rounak7721/raw/main/resume/Rounak_Sonavane_Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rounak-sonavane)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rounaks7721@gmail.com)
 
 ---
 
@@ -29,7 +30,7 @@ AI Systems Engineer passionate about designing and building end-to-end intellige
 
 I enjoy solving system-level engineering problems by integrating LLMs, computer vision, robotics software, databases, and modern AI frameworks into practical real-world applications.
 
-🎓 B.Tech in Artificial Intelligence & Machine Learning (2025)  
+🎓 B.Tech in Artificial Intelligence & Machine Learning (2025)
 📍 Goa, India
 
 ---
@@ -71,37 +72,31 @@ I enjoy solving system-level engineering problems by integrating LLMs, computer 
 ## Featured Projects
 
 ### 🚀 [MindDesk](https://github.com/Rounak7721/MindDesk)
-
 A multimodal AI systems platform integrating planning agents, document intelligence, computer vision, surveillance, and IoT automation through a unified local-first architecture.
 
 ---
 
 ### 🤖 [IRIS](https://github.com/Rounak7721/iris)
-
 An ongoing robotics platform integrating ROS2, MoveIt, and computer vision for intelligent robotic perception and manipulation.
 
 ---
 
 ### ⚙️ [Agentic Lead Qualification System](https://github.com/Rounak7721/ai-lead-qualification-system)
-
 LLM-powered workflow automation system for lead qualification, scoring, and routing using Airtable, Slack, Google Sheets, and n8n.
 
 ---
 
 ### 🖐️ [Virtual Mouse](https://github.com/Rounak7721/Virtual-Mouse)
-
 Gesture-controlled human-computer interaction system built with OpenCV and MediaPipe.
 
 ---
 
 ## Currently Working On
-
 🤖 **IRIS** — Intelligent Robotic Perception System
 
 ---
 
 ## Currently Exploring
-
 - AI Systems Engineering
 - Intelligent Automation
 - Robotics
@@ -113,6 +108,6 @@ Gesture-controlled human-computer interaction system built with OpenCV and Media
 
 ## Connect
 
-- 💼 **LinkedIn:** https://linkedin.com/in/rounak-sonavane
-- 📧 **Email:** rounaks7721@gmail.com
-- 📄 **Resume:** https://github.com/Rounak7721/Rounak7721/raw/main/resume/Rounak_Sonavane_Resume.pdf
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rounak-sonavane)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rounaks7721@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Rounak7721/Rounak7721/raw/main/Rounak_Sonavane_Resume.pdf)
