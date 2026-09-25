@@ -2,11 +2,11 @@
 
 # Rounak Sonavane
 
-### AI Systems Engineer
+### AI Engineer
 
-**I build intelligent systems end to end — from training the model to shipping, deploying and monitoring it in production.**
+**I take AI products from idea to live deployment — model training, agent design, backend and infrastructure.**
 
-LLM agents · Machine learning · Computer vision · Robotics · Backend engineering
+LLM agents · RAG · Fine-tuning · Backend systems · Robotics
 
 <br/>
 
@@ -20,11 +20,11 @@ LLM agents · Machine learning · Computer vision · Robotics · Backend enginee
 
 ## About
 
-I'm an AI Systems Engineer focused on the part most AI projects skip: getting a system all the way to production and keeping it there.
+I build AI systems that are reliable and explainable — not just impressive in a demo.
 
-That means treating a model as one component of a larger system — fine-tuning it, wrapping it in a clean service layer, deciding what should stay deterministic and what genuinely benefits from an LLM, then automating the delivery pipeline and monitoring the thing once it's live.
+In practice that means treating a model as one component of a larger system: fine-tuning it where it earns its place, keeping decisions deterministic where they need to be reproducible and auditable, wrapping it in a clean service layer, then automating delivery and monitoring the thing once it's live.
 
-My work spans LLM agent architectures, applied machine learning, computer vision, ROS 2 robotics, and the backend and infrastructure that hold it all together.
+Over the past year I've built a live AI contract review platform, a multimodal agentic workspace running on a hand-written orchestration engine, LLM workflow automations, and a 6-DOF robotic arm on ROS 2. All of it solo, most of it from scratch, all of it shipped or running.
 
 🎓 B.Tech in Artificial Intelligence & Machine Learning, 2025
 
@@ -49,6 +49,24 @@ The core design idea: **deterministic where it must be, generative where it help
 - **Fully automated CI/CD**: GitHub Actions → multi-arch images → GHCR → Tailscale-authenticated deploy to a Cloudflare-tunnelled host, with independent n8n uptime monitoring on isolated infrastructure
 
 `FastAPI` `PyTorch` `Transformers` `LangGraph` `LangChain` `Groq` `ChromaDB` `React` `TypeScript` `Docker` `GitHub Actions`
+
+---
+
+### 🔨 ReForge — AI Product Teardown & Concept Builder
+
+[![Live](https://img.shields.io/badge/Live-reforge.rounak.co-2ea44f?style=flat-square&logo=vercel&logoColor=white)](https://reforge.rounak.co)
+[![Repo](https://img.shields.io/badge/Repo-ReForge-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rounak7721/ReForge)
+[![Demo](https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=yT_LptZCr4A)
+
+Take any product apart, build yours from the pieces. ReForge analyses a website from its text and screenshot, drafts a full product concept and starter site, then refines it through plain-English edits.
+
+**Concept to deployed MVP in 72 hours** (~18 hours of hands-on development) through AI-assisted rapid prototyping — owning the architecture, code review and debugging throughout.
+
+- **Vendor-neutral LLM provider layer** (Gemini, Groq, OpenAI-compatible) with Zod-validated strict-JSON outputs and provider fallback, so no single free-tier provider is load-bearing
+- Every model result **cached in Postgres** — reopened projects make zero model calls; per-account rate limits keep running cost at **$0**
+- Multi-tenant security: **per-command Row Level Security** verified by direct SQL assertions, an SSRF guard on URL fetching, and sandboxed iframe previews
+
+`TypeScript` `Supabase` `PostgreSQL` `Gemini` `Groq` `Zod` `Next.js` `Vercel` `Docker`
 
 ---
 
@@ -118,23 +136,42 @@ Your hand is the mouse. Real-time hand tracking mapped to full cursor control �
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**AI & Machine Learning**
+**AI & LLM Systems**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-863BFF?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-2B4C7E?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+
+**LLM Providers & Tooling**
+
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+**Backend & Data**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 
 **Computer Vision**
 
@@ -143,16 +180,16 @@ Your hand is the mouse. Real-time hand tracking mapped to full cursor control �
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
 
-**Backend & Data**
+**DevOps & Automation**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 **Robotics**
 
@@ -160,17 +197,6 @@ Your hand is the mouse. Real-time hand tracking mapped to full cursor control �
 ![MoveIt](https://img.shields.io/badge/MoveIt-1C1C1C?style=flat-square)
 ![ros2_control](https://img.shields.io/badge/ros2__control-22314E?style=flat-square)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-**DevOps & Automation**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ---
 
@@ -178,15 +204,15 @@ Your hand is the mouse. Real-time hand tracking mapped to full cursor control �
 
 🔨 **Building** — [IRIS](https://github.com/Rounak7721/iris), moving a custom 6-DOF arm from simulation onto real hardware
 
-🚀 **Shipping** — [ClauseGuard](https://clauseguard.rounak.co), live in production and actively improving classifier accuracy
+🚀 **Live** — [ClauseGuard](https://clauseguard.rounak.co) and [ReForge](https://reforge.rounak.co), both deployed and actively improving
 
-📚 **Exploring** — agent architectures, MLOps and model deployment, embodied AI
+📚 **Next up** — reinforcement learning, and where it meets robotic manipulation
 
 ---
 
 <div align="center">
 
-**Open to roles in** AI Systems Engineering · Applied AI · Intelligent Automation · Robotics Software · Computer Vision
+**Open to roles in** AI Engineering · Agentic AI · LLM Systems · Applied AI · Machine Learning
 
 <br/>
 
