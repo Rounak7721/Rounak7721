@@ -6,7 +6,7 @@
 
 **I take AI products from idea to live deployment — model training, agent design, backend and infrastructure.**
 
-LLM agents · RAG · Fine-tuning · Backend systems · Robotics
+LLM agents · RAG · Fine-tuning · Evals · Backend systems
 
 <br/>
 
@@ -24,9 +24,9 @@ I build AI systems that are reliable and explainable — not just impressive in 
 
 In practice that means treating a model as one component of a larger system: fine-tuning it where it earns its place, keeping decisions deterministic where they need to be reproducible and auditable, wrapping it in a clean service layer, then automating delivery and monitoring the thing once it's live.
 
-Over the past year I've built a live AI contract review platform, a multimodal agentic workspace running on a hand-written orchestration engine, LLM workflow automations, and a 6-DOF robotic arm on ROS 2. All of it solo, most of it from scratch, all of it shipped or running.
+Over the past year and a half I've built a live AI contract review platform, an AI product builder, a multimodal agentic workspace running on a hand-written orchestration engine, and LLM workflow automations, plus a 6-DOF robotic arm on ROS 2 on the side. All of it solo, most of it from scratch.
 
-🎓 B.Tech in Artificial Intelligence & Machine Learning, 2025
+🎓 B.Tech in Artificial Intelligence & Machine Learning, 2025 · ⚡ Immediate joiner
 
 ---
 
@@ -35,7 +35,7 @@ Over the past year I've built a live AI contract review platform, a multimodal a
 ### ⚖️ ClauseGuard — AI Legal Contract Review Platform
 
 [![Live](https://img.shields.io/badge/Live-clauseguard.rounak.co-2ea44f?style=flat-square&logo=cloudflare&logoColor=white)](https://clauseguard.rounak.co)
-[![Repo](https://img.shields.io/badge/Repo-ClauseGuard-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rounak7721/ClauseGuard)
+[![Docs](https://img.shields.io/badge/Docs-ClauseGuard-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rounak7721/ClauseGuard)
 [![Demo](https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=t1wdO2IBGTY)
 
 Explains a legal contract clause by clause, in plain language — combining a fine-tuned classifier, a deterministic risk engine, and a RAG-grounded LLM agent.
@@ -72,7 +72,7 @@ Take any product apart, build yours from the pieces. ReForge analyses a website 
 
 ### 🧠 MindDesk — Multimodal Agentic AI Platform
 
-[![Repo](https://img.shields.io/badge/Repo-MindDesk-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rounak7721/MindDesk)
+[![Docs](https://img.shields.io/badge/Docs-MindDesk-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rounak7721/MindDesk)
 
 A local-first agentic platform that plans, reasons and acts across eight capability domains — running entirely on your own hardware, with nothing sent to a third party.
 
@@ -82,24 +82,9 @@ Its **plan-and-execute engine is built from scratch** — no agent framework. Pl
 - Typed plan validation with **retry-repair loops**, hallucinated-step stripping, and `$stepN.field` result chaining between tools
 - A deterministic fast path bypasses the LLM planner entirely for simple intents, keeping latency low
 - Document intelligence over PDF/DOCX/XLSX/CSV with hybrid **FAISS + ChromaDB** retrieval, isolated per conversation
-- Real-time surveillance (**YOLOv11** + **InsightFace**), IoT device control, speech, image generation and RBAC admin in one system
+- Real-time vision (**YOLOv11** detection + **InsightFace** recognition), IoT device control, speech, image generation and RBAC admin in one system
 
 `Python` `Flask` `React` `Ollama` `LangChain` `RAG` `YOLO` `OpenCV` `Whisper` `PostgreSQL` `MongoDB` `FAISS` `ChromaDB`
-
----
-
-### 🤖 IRIS — Intelligent Robotic Perception & Manipulation *(ongoing)*
-
-[![Repo](https://img.shields.io/badge/Repo-iris-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rounak7721/iris)
-
-A custom 6-DOF robotic arm, built end to end — URDF through firmware through motion planning through perception.
-
-- **11 ROS 2 packages**, spanning a C++ `ros2_control` hardware interface driving real servos over serial, MoveIt motion planning, and ESP32 firmware
-- **Dual-camera perception** splitting the problem by role: an overview camera owns *where* things are (tracking, occlusion state), an eye-in-hand camera owns *what* they are (YOLO detection, precision)
-- Local voice pipeline — wake-word detection → VAD → Whisper transcription, as a ROS 2 lifecycle node
-- Qt control panel for live diagnostics, joint control and E-stop
-
-`Python` `C++` `ROS2` `MoveIt` `ros2_control` `URDF` `PyTorch` `YOLO` `OpenCV` `Whisper` `Qt` `ESP32`
 
 ---
 
@@ -118,6 +103,21 @@ An end-to-end pipeline that captures leads, scores them with an LLM, tiers them,
 
 ---
 
+### 🤖 IRIS — Intelligent Robotic Perception & Manipulation *(ongoing)*
+
+[![Repo](https://img.shields.io/badge/Repo-iris-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rounak7721/iris)
+
+A custom 6-DOF robotic arm, built end to end — URDF through firmware through motion planning through perception.
+
+- **11 ROS 2 packages**, spanning a C++ `ros2_control` hardware interface driving real servos over serial, MoveIt motion planning, and ESP32 firmware
+- **Dual-camera perception** splitting the problem by role: an overview camera owns *where* things are (tracking, occlusion state), an eye-in-hand camera owns *what* they are (YOLO detection, precision)
+- Local voice pipeline — wake-word detection → VAD → Whisper transcription, as a ROS 2 lifecycle node
+- Qt control panel for live diagnostics, joint control and E-stop
+
+`Python` `C++` `ROS2` `MoveIt` `ros2_control` `URDF` `PyTorch` `YOLO` `OpenCV` `Whisper` `Qt` `ESP32`
+
+---
+
 ### 🖐️ Virtual Mouse — Gesture-Controlled HCI
 
 [![Repo](https://img.shields.io/badge/Repo-Virtual--Mouse-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rounak7721/Virtual-Mouse)
@@ -131,15 +131,16 @@ Your hand is the mouse. Real-time hand tracking mapped to full cursor control �
 
 ---
 
+> ClauseGuard and MindDesk source code is kept private; their repos hold the full architecture and engineering write-ups. Happy to give access to recruiters on request.
+
+---
+
 ## Tech Stack
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **AI & LLM Systems**
@@ -149,7 +150,6 @@ Your hand is the mouse. Real-time hand tracking mapped to full cursor control �
 ![LangGraph](https://img.shields.io/badge/LangGraph-863BFF?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-2B4C7E?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 **LLM Providers & Tooling**
@@ -163,8 +163,8 @@ Your hand is the mouse. Real-time hand tracking mapped to full cursor control �
 **Backend & Data**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -202,11 +202,11 @@ Your hand is the mouse. Real-time hand tracking mapped to full cursor control �
 
 ## Currently
 
-🔨 **Building** — [IRIS](https://github.com/Rounak7721/iris), moving a custom 6-DOF arm from simulation onto real hardware
-
 🚀 **Live** — [ClauseGuard](https://clauseguard.rounak.co) and [ReForge](https://reforge.rounak.co), both deployed and actively improving
 
-📚 **Next up** — reinforcement learning, and where it meets robotic manipulation
+🔨 **Building** — slimproof, an open-source tool that audits and slims MCP tool definitions to cut agent token usage
+
+🤖 **On the side** — [IRIS](https://github.com/Rounak7721/iris), moving a custom 6-DOF arm from simulation onto real hardware
 
 ---
 
