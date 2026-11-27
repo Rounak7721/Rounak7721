@@ -1,9 +1,8 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2B4C7E,100:4A78B8&height=190&section=header&text=Rounak%20Sonavane&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Agentic%20Systems%20%C2%B7%20LLM%20Applications&descSize=18&descAlignY=58"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:2B4C7E&height=190&section=header&text=Rounak%20Sonavane&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Agentic%20Systems%20%C2%B7%20LLM%20Applications&descSize=18&descAlignY=58" width="100%" alt="Rounak Sonavane — AI Engineer"/>
-</picture>
+# Rounak Sonavane
+
+### AI Engineer
 
 **I take AI products from idea to live deployment — model training, agent design, backend and infrastructure.**
 
@@ -177,12 +176,5 @@ Its **plan-and-execute engine is built from scratch** — no agent framework. Pl
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rounak-sonavane)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rounaks7721@gmail.com)
 [![Résumé](https://img.shields.io/badge/Résumé-2B4C7E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Rounak7721/Rounak7721/raw/main/Rounak_Sonavane_Resume.pdf)
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4A78B8,100:2B4C7E&height=110&section=footer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B4C7E,100:1E3A5F&height=110&section=footer" width="100%" alt=""/>
-</picture>
 
 </div>
